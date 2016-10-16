@@ -1,0 +1,15 @@
+- url: /
+  title: 主页
+
+- url: /docs/
+  title: 文档
+
+- url: /blog/
+  title: 博客
+
+- url: /download/
+  title: 下载
+
+- url: /about/
+  title: 关于
+
